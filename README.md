@@ -43,12 +43,12 @@ My approach: **make complex problems understandable, measurable, and actionable.
 
 | Project | Focus | Status |
 | :--- | :--- | :--- |
-| **KitaRead** | Reading app and personal digital library | Private development |
+| **[KitaRead](https://github.com/rasim-mammadov/kitaread)** | Android EPUB, PDF & CBZ reader · Kotlin | Public · v1.1 in development |
 | **Project Void** | 2D isometric action-RPG prototype | Private development |
 | **Project Orbit** | 3D combat/gameplay prototype | Private development |
 | **Ascension** | Personal organization and productivity concept | Private development |
 
-*Project links, screenshots, and demos will be added when public showcases are ready. No confidential work materials are published here.*
+*KitaRead is publicly available, with source code and setup instructions. Other projects remain private until ready for public showcases. No confidential work materials are published here.*
 
 ## What I'm Exploring
 
