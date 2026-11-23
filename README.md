@@ -60,6 +60,6 @@ I am interested in the practical use of **statistical analytics, automation, AI-
 
 **Connect / Explore**
 
-[GitHub](https://github.com/rasim-mammadov) · LinkedIn (link to be added)
+[GitHub](https://github.com/rasim-mammadov) · [LinkedIn](https://www.linkedin.com/in/rasim-mammadov-az/)
 
 </div>
